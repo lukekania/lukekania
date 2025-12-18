@@ -112,7 +112,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=binarEx&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=lukekania&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -138,12 +138,12 @@ When I’m not coding, I enjoy:
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binarEx&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binarEx&layout=compact&theme=radical" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=lukekania&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukekania&layout=compact&theme=radical" height="160">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=binarEx&theme=redical&hide_border=true&include_all_commits=true&count_private=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lukekania&theme=redical&hide_border=true&include_all_commits=true&count_private=true" alt="Activity Graph" />
 </p>
 
 --- 
