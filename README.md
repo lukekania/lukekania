@@ -31,6 +31,26 @@
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|----------|--------------|------|
+| [**mcp-contracts**](https://github.com/mcp-contracts/mcp-contracts) | mcpdiff captures versioned snapshots of MCP server tool schemas and detects breaking changes, drift, and potential tool poisoning vectors. | TS |
+| [**claude-verifier-safari**](https://github.com/lukekania/claude-verifier-safari) | MCP server that verifies web pages in Safari via a native Safari Web Extension or WebDriver. | Swift · Safari · TS/JS |
+| [**release-notes-generator**](https://github.com/lukekania/release-notes-generator) | Release Notes Generator is a minimal GitHub Action that automatically generates release notes from merged pull requests. | JS |
+| [**pr-advisor**](https://github.com/lukekania/pr-advisor) | PR Advisor is a unified GitHub Action that combines PR size analysis, state explanation, and reviewer suggestions into a single PR comment. | JS |
+| [**ci-failure-analyzer**](https://github.com/lukekania/ci-failure-analyzer) | CI Failure Analyzer is a GitHub Action that explains CI failures and optionally tracks recurring failure patterns. | JS |
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lukekania&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+</p>
+
+---
+
 ## 🧩 Skills Overview
 ### 🎨 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -106,26 +126,6 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lukekania&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|----------|--------------|------|
-| [**mcp-contracts**](https://github.com/mcp-contracts/mcp-contracts) | mcpdiff captures versioned snapshots of MCP server tool schemas and detects breaking changes, drift, and potential tool poisoning vectors. | TS |
-| [**claude-verifier-safari**](https://github.com/lukekania/claude-verifier-safari) | MCP server that verifies web pages in Safari via a native Safari Web Extension or WebDriver. | Swift · Safari · TS/JS |
-| [**release-notes-generator**](https://github.com/lukekania/release-notes-generator) | Release Notes Generator is a minimal GitHub Action that automatically generates release notes from merged pull requests. | JS |
-| [**pr-advisor**](https://github.com/lukekania/pr-advisor) | PR Advisor is a unified GitHub Action that combines PR size analysis, state explanation, and reviewer suggestions into a single PR comment. | JS |
-| [**ci-failure-analyzer**](https://github.com/lukekania/ci-failure-analyzer) | CI Failure Analyzer is a GitHub Action that explains CI failures and optionally tracks recurring failure patterns. | JS |
 
 ---
 
