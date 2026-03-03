@@ -121,14 +121,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lukekania&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 🎯 Hobbies & Interests
 When I’m not coding, I enjoy:
 - 🏄‍♂️ Boardsports & Hiking
@@ -136,6 +128,14 @@ When I’m not coding, I enjoy:
 - 👨‍💻 Pentesting & Application Security
 - 🎮 Gaming
 - 🎧 Playing Guitar and creating Music
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lukekania&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+</p>
 
 ---
 
