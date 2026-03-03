@@ -6,13 +6,12 @@
 ---
 
 ## ⚡ About Me
+
 - 🚀 Lead Developer & Architect in Germany’s digital government projects  
 - 🧠 Bridging software engineering with data science and AI
 - 🧰 Building scalable, cloud-native systems using modern frameworks  
 - 🦀 Exploring Rust for systems-level development  
-- 🌍 Based in Germany — passionate about open source and digital innovation  
-
----
+- 🌍 Based in Germany — passionate about open source and digital innovation
 
 ## 🚧 Currently
 - 📈 Building a Financial Portfolio App for motivated Retail Investors
@@ -21,15 +20,11 @@
 - 🧩 Experimenting with Tailwind for design systems
 - 🛡️ Studying application security and pentesting
 
----
-
 ## 🧠 Focus Areas
 - Full-stack application architecture  
 - Cloud-native development & automation  
 - DevSecOps, CI/CD, and system observability  
 - Data engineering and backend optimization
-
----
 
 ## 🚀 Featured Projects
 
@@ -40,8 +35,6 @@
 | [**release-notes-generator**](https://github.com/lukekania/release-notes-generator) | Release Notes Generator is a minimal GitHub Action that automatically generates release notes from merged pull requests. | JS |
 | [**pr-advisor**](https://github.com/lukekania/pr-advisor) | PR Advisor is a unified GitHub Action that combines PR size analysis, state explanation, and reviewer suggestions into a single PR comment. | JS |
 | [**ci-failure-analyzer**](https://github.com/lukekania/ci-failure-analyzer) | CI Failure Analyzer is a GitHub Action that explains CI failures and optionally tracks recurring failure patterns. | JS |
-
----
 
 ## 🧩 Skills Overview
 ### 🎨 Languages
@@ -89,9 +82,6 @@
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 
-
----
-
 ## 🎯 Hobbies & Interests
 When I’m not coding, I enjoy:
 - 🏄‍♂️ Boardsports & Hiking
@@ -99,8 +89,6 @@ When I’m not coding, I enjoy:
 - 👨‍💻 Pentesting & Application Security
 - 🎮 Gaming
 - 🎧 Playing Guitar and creating Music
-
----
 
 ## 📊 GitHub Metrics
 
@@ -117,8 +105,6 @@ When I’m not coding, I enjoy:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lukekania/lukekania/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/lukekania/lukekania/output/github-snake.svg" />
 </picture>
-
---- 
 
 ## 🔗 Connect
 
