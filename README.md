@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Luke — lukekania</h1>
 <p align="center">
-  <em>Full-Stack Engineer | Data Science Background | Tech Architect</em>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Engineer;Tech+Architect;Data+Science+Background;Cloud-Native+Developer" alt="Typing SVG" /></a>
 </p>
 
 ---
