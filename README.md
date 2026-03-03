@@ -105,8 +105,18 @@ When I’m not coding, I enjoy:
 ## 📊 GitHub Metrics
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=lukekania&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lukekania&theme=redical&hide_border=true&include_all_commits=true&count_private=true" alt="Activity Graph" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lukekania/lukekania/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lukekania/lukekania/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lukekania/lukekania/output/github-snake.svg" />
+</picture>
 
 --- 
 
