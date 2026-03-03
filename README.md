@@ -121,7 +121,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lukekania&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
@@ -152,7 +152,7 @@ When I’m not coding, I enjoy:
 
 --- 
 
-### 🔗 Connect
+## 🔗 Connect
 - [![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](#)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](#)
