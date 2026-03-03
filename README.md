@@ -135,5 +135,5 @@ When I’m not coding, I enjoy:
 ---
 
 <p align="center">
-  <sub>⚙️ Generated with ❤️ by Luke | Updated regularly with new tech adventures</sub>
+  <sub>Built by Luke — always shipping, always learning.</sub>
 </p>
