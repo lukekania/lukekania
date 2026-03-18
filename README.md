@@ -3,27 +3,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Engineer;Tech+Architect;Data+Science+Background;Cloud-Native+Developer" alt="Typing SVG" /></a>
 </p>
 
-## ⚡ About Me
-
-- 🚀 Lead Developer & Architect in Germany’s digital government projects  
-- 🧠 Bridging software engineering with data science and AI
-- 🧰 Building scalable, cloud-native systems using modern frameworks  
-- 🦀 Exploring Rust for systems-level development  
-- 🌍 Based in Germany — passionate about open source and digital innovation
-
-## 🚧 Currently
-- 📈 Building a Financial Portfolio App for motivated Retail Investors
-- 🤖 Working on a Research Project for Agent Communication
-- 🦀 Deepening my Rust skills for backend systems
-- 🧩 Experimenting with Tailwind for design systems
-- 🛡️ Studying application security and pentesting
-
-## 🧠 Focus Areas
-- Full-stack application architecture  
-- Cloud-native development & automation  
-- DevSecOps, CI/CD, and system observability  
-- Data engineering and backend optimization
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
@@ -79,6 +58,27 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+
+## ⚡ About Me
+
+- 🚀 Lead Developer & Architect in Germany’s digital government projects  
+- 🧠 Bridging software engineering with data science and AI
+- 🧰 Building scalable, cloud-native systems using modern frameworks  
+- 🦀 Exploring Rust for systems-level development  
+- 🌍 Based in Germany — passionate about open source and digital innovation
+
+## 🚧 Currently
+- 📈 Building a Financial Portfolio App for motivated Retail Investors
+- 🤖 Working on a Research Project for Agent Communication
+- 🦀 Deepening my Rust skills for backend systems
+- 🧩 Experimenting with Tailwind for design systems
+- 🛡️ Studying application security and pentesting
+
+## 🧠 Focus Areas
+- Full-stack application architecture  
+- Cloud-native development & automation  
+- DevSecOps, CI/CD, and system observability  
+- Data engineering and backend optimization
 
 ## 🎯 Hobbies & Interests
 When I’m not coding, I enjoy:
