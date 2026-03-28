@@ -7,6 +7,7 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
+| [**ngc-rs**](https://github.com/lukekania/ngc-rs) | Fast Angular build toolchain. | Rust |
 | [**mcp-contracts**](https://github.com/mcp-contracts/mcp-contracts) | mcpdiff captures versioned snapshots of MCP server tool schemas and detects breaking changes, drift, and potential tool poisoning vectors. | TS |
 | [**claude-verifier-safari**](https://github.com/lukekania/claude-verifier-safari) | MCP server that verifies web pages in Safari via a native Safari Web Extension or WebDriver. | Swift · Safari · TS/JS |
 | [**release-notes-generator**](https://github.com/lukekania/release-notes-generator) | Release Notes Generator is a minimal GitHub Action that automatically generates release notes from merged pull requests. | JS |
