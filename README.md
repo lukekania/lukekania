@@ -7,6 +7,7 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
+| [**claude-costline**](https://github.com/lukekania/claude-costline) | Adds the current and overall cost of you Claude Code project to the statusbar | shell/Python |
 | [**ngc-rs**](https://github.com/lukekania/ngc-rs) | Fast Angular build toolchain. | Rust |
 | [**mcp-contracts**](https://github.com/mcp-contracts/mcp-contracts) | mcpdiff captures versioned snapshots of MCP server tool schemas and detects breaking changes, drift, and potential tool poisoning vectors. | TS |
 | [**claude-verifier-safari**](https://github.com/lukekania/claude-verifier-safari) | MCP server that verifies web pages in Safari via a native Safari Web Extension or WebDriver. | Swift · Safari · TS/JS |
